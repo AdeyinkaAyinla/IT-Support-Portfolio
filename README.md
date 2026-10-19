@@ -1,10 +1,10 @@
 # IT Support Portfolio
 
-**Ayinla Adeyinka Adedapo** · IT Support & Service Desk · MEng Cyber Security (University of Limerick) · ISC2 CC · Ireland
+**Ayinla Adeyinka Adedapo** · IT Support & Cybersecurity · MSc Cybersecurity (University of Limerick) · CompTIA A+ · Network+ · ISC2 CC · Ireland
 
 This repository documents a hands-on series of **11 IT support projects (L1 to L2)**, built step by step in a home lab and a Microsoft 365 cloud tenant. Each project solves a realistic support problem, includes the troubleshooting I did along the way, and ends with a short security review.
 
-> 📌 **Status:** in progress. Projects are added as they are completed. Follow along on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/).
+> 📌 **Status:** in progress. Projects are added as they are completed. Follow along on [LinkedIn](https://www.linkedin.com/in/adeyinka-ayinla-b7836386/).
 
 ---
 
@@ -38,11 +38,11 @@ Status key: 🔜 Planned · 🛠️ In progress · ✅ Complete
 
 ## Skills covered
 
-**Microsoft:** Active Directory · Group Policy · Microsoft 365 · Exchange Online · Teams · SharePoint · Entra ID · Intune · Autopilot · Defender · Windows 10/11 · Windows Server
-**Service management:** ServiceNow · ITIL · SLAs · incident, request and problem management · knowledge base writing
-**Networking:** TCP/IP · DHCP · DNS · VLANs · VPN · Wi-Fi · troubleshooting with the OSI model
-**Automation:** PowerShell
-**Security:** MFA · Conditional Access · least privilege · patching · backup · phishing response
+- **Microsoft:** Active Directory · Group Policy · Microsoft 365 · Exchange Online · Teams · SharePoint · Entra ID · Intune · Autopilot · Defender · Windows 10/11 · Windows Server
+- **Service management:** ServiceNow · ITIL · SLAs · incident, request and problem management · knowledge base writing
+- **Networking:** TCP/IP · DHCP · DNS · VLANs · VPN · Wi-Fi · troubleshooting with the OSI model
+- **Automation:** PowerShell
+- **Security:** MFA · Conditional Access · least privilege · patching · backup · phishing response
 
 ---
 
@@ -65,17 +65,21 @@ All names, accounts and data in this repository are fictional. No real passwords
 
 | Certification | Status |
 | --- | --- |
+| CompTIA A+ | ✅ Achieved |
+| CompTIA Network+ | ✅ Achieved |
+| Microsoft Azure Fundamentals (AZ-900) | ✅ Achieved |
 | ISC2 Certified in Cybersecurity (CC) | ✅ Achieved |
 | ITIL Foundation (Version 5) | 🔜 Planned |
-| Microsoft Azure Fundamentals (AZ-900) | 🔜 Planned |
 | Microsoft 365 Endpoint Administrator (MD-102) | 🔜 Planned |
 | CompTIA Security+ | 📚 Studying |
 
-**Education:** Master of Engineering in Cyber Security, University of Limerick (2026)
+**Education:** MSc Cybersecurity, University of Limerick (2026) · BSc Computer Science, National Open University of Nigeria (2017)
+
+**Experience:** IT support and security roles at the EFCC, Polaris Bank and Bawoen Trust; currently at Keldesso Ltd, Ireland. See my [profile](https://github.com/AdeyinkaAyinla).
 
 ---
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+- LinkedIn: [linkedin.com/in/adeyinka-ayinla-b7836386](https://www.linkedin.com/in/adeyinka-ayinla-b7836386/)
 - Open to **Service Desk Analyst**, **IT Support Engineer** and **Technical Support** roles in Ireland.
